@@ -1,22 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-<body>
-background-color: lightblue;
-p {
-   
-  color: blue;
-  text-align: center;
- 
-
-} 
-</style>
-</head>
-
-<h1>Ines Abbes</h1>
-<p>Dont Judge Me</p>
-
-</body>
-</html>
+body{
+	font-family: Helvetica;
+	margin: 0;
+	padding: 0;
+	background-image: url(back1.jpg);
+	color: white;
+}
 
